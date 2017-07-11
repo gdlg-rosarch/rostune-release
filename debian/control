@@ -1,0 +1,13 @@
+Source: ros-indigo-rostune
+Section: misc
+Priority: extra
+Maintainer: George Stavrinos <gstavrinos@iit.demokritos.gr>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: http://wiki.ros.org/jaguar_robot
+Standards-Version: 3.9.2
+
+Package: ros-indigo-rostune
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, 
+Description: rostune is a tool that helps ROS developers distribute their nodes in the most effective way.
+ It collects statistics for topics and nodes, such as CPU and network usage.
