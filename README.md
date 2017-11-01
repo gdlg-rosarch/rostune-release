@@ -1,3 +1,26 @@
+## rostune (kinetic) - 1.0.6-0
+
+The packages in the `rostune` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic rostune --edit` on `Wed, 01 Nov 2017 09:20:20 -0000`
+
+The `rostune` package was released.
+
+Version of package(s) in repository `rostune`:
+
+- upstream repository: https://github.com/roboskel/rostune.git
+- release repository: https://github.com/roboskel/rostune-release.git
+- rosdistro version: `1.0.5-1`
+- old version: `1.0.5-1`
+- new version: `1.0.6-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.1`
+- catkin_pkg version: `0.3.9`
+- rosdep version: `0.11.8`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.39`
+
+
 ## rostune (kinetic) - 1.0.5-1
 
 The packages in the `rostune` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic rostune --edit` on `Thu, 13 Jul 2017 11:27:26 -0000`
